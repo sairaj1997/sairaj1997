@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
+![MasterHead](https://cdn.dribbble.com/users/1523313/screenshots/13671653/data-analysis.gif)
 <h1 align="center">Hi 👋, I'm Potluri Sairaj</h1>
 <h3 align="center">An Aspiring Data Analyst From India</h3>
 
